@@ -49,7 +49,7 @@ A Streamlit application that extracts structured information from invoice PDFs u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/invoice-extraction-bot.git
+git clone https://github.com/sudarshan-raveendranath/Invoice-Extraction-Bot-RAG.git
 cd invoice-extraction-bot
 ```
 2. Create and activate virtual environment:
